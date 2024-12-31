@@ -1,0 +1,6 @@
+fire
+pre-commit
+pylatexenc
+ruff
+sympy
+vllm>=0.6,<0.7
